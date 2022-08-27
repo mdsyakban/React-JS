@@ -1,0 +1,15 @@
+.aku{
+    width: 200px;
+    height: 200px;
+    overflow: visible;
+    border: solid white 3px;
+    border-radius: 100%;
+    object-fit: cover;
+    margin-top: 100px;
+}
+
+.text {
+    color: white;
+    font-weight: bold;
+    font-family: helvetica;
+}

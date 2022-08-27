@@ -1,0 +1,21 @@
+.img-fluid {
+    height: 200px;
+    width: 200px;
+}
+
+.card-text1 {
+    font-family: 'calibri';
+    text-align: justify;
+}
+
+.card-text1, .card-title {
+    color: white;
+}
+
+/* .content {
+    background-color: rgb(243, 234, 234);
+} */
+
+.content1 {
+    background-color: white;
+}
